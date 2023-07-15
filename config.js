@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: Nhi à!',
+    introTitle: 'Nhi à!',
     introDesc: 'Facebook cứ hỏi anh: "What is on your mind?" Chẳng lẽ anh lại bảo em em em',
     btnIntro: 'hihi',
     title: 'Cho tui xin lũi Nhi nhoa',
