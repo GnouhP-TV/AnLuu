@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Yêu em An xinh gái',
     desc: 'Tôi yêu em đến nay chừng có thể \n Ngọn lửa tình chưa hẳn đã tàn phai',
-    btnYes: 'Yêu Anh Bin',
+    btnYes: 'Yêu Anh Bin của bé An',
     btnNo: 'Không, Anh trai à :3',
     question:'Em tin tôi chưa',
     btnReply: 'Gửi lời yêu thương nè',
