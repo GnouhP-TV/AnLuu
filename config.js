@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: 'Facebook cứ hỏi anh: "What is on your mind?" Chẳng lẽ anh lại bảo em em em',
     btnIntro: 'hihi',
     title: 'Yêu em An xinh gái',
-    desc: '',
+    desc: 'Tôi yêu em đến nay chừng có thể,</br> Ngọn lửa tình chưa hẳn đã tàn phai,</br> Nhưng không để em bận lòng thêm nữa,</br> Hay hồn em phải gợn bóng u hoài',
     btnYes: 'Yêu Anh Bin của bé An',
     btnNo: 'Không, Anh trai à :3',
     question:'Em tin tôi chưa',
